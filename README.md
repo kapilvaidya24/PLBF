@@ -1,7 +1,7 @@
 # PLBF
 Code for ICLR 2020 paper [Partitioned Learned Bloom Filter(PLBF)](https://arxiv.org/abs/2006.03176).
 
-
+## Example Usage
 plbf_algo.py: Contains the algorithm to find the optimal parameter values.
 
 Input:
